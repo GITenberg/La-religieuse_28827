@@ -24,6 +24,8 @@ creator:
     gutenberg_agent_id: '33444'
     url: http://www.gutenberg.org/2009/agents/33444
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28827#La-religieuse
 gutenberg_bookshelf:
 - FR Philosophie, Religion et Morale
 - FR Littérature
